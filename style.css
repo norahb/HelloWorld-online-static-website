@@ -1,0 +1,10 @@
+ body {
+  background-color: black;
+}
+
+h1{
+  color: white;
+  font: 5rem Inconsolata, monospace;
+  text-shadow: 0 0 5px #C8C8C8;
+  text-align: center;
+}
